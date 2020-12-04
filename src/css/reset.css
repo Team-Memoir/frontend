@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+html,
+body {
+  height: 100%;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+footer {
+  padding: 12px 0;
+  width: 100%;
+}
+header {
+  padding: 12px 0;
+  width: 100%;
+}
